@@ -1,1 +1,0 @@
-("~/src/core-analytics/" "~/.emacs.d/elpa/jedi-core-20210503.1315/")
